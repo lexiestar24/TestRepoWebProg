@@ -1,0 +1,1 @@
+This is Lexie's file called lexie_file.txt
